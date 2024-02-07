@@ -586,6 +586,15 @@ button{
   font-size: 1.25rem;
 }
 
+.new__content .new__img{
+  transform: translateY(-.5rem);
+}
+
+.new__content .new__button{
+  right: 0;
+}
+
+
 /*=============== NEWSLETTER ===============*/
 .newsletter__description{
   text-align: center;
