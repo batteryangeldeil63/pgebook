@@ -88,7 +88,7 @@ window.addEventListener('scroll', scrollUp)
 const sr = ScrollReveal({
     origin: 'top',
     distance: '60px',
-    duration: 500,
+    duration: 100,
     delay: 0,
     // reset: true
 })
